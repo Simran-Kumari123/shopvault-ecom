@@ -2,10 +2,6 @@
 
 A complete authentication-based e-commerce dashboard built using **React, Vite, React Router, and Tailwind CSS**, featuring session management, product browsing, and a dynamic cart system.
 
----
-
-## 🚀 Live Demo
-👉 (Add your deployed link here after hosting)
 
 ---
 
